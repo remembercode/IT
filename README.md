@@ -16,4 +16,5 @@
 可预约时段：中国大陆每个工作日19:00-22:00，周末09:00-22:00
 
 ## 如何预约
-扫码添加以下企业微信账号，客服人员会恢复
+扫码添加以下企业微信账号，客服人员会回复
+![remembercode@remembercode](https://github.com/remembercode/IT/blob/main/img/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1_20230425133336.jpg)
