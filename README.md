@@ -17,4 +17,4 @@
 
 ## 如何预约
 扫码添加以下企业微信账号，客服人员会回复
-![remembercode@remembercode](https://github.com/remembercode/IT/blob/main/img/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1_20230425133336.jpg)
+![remembercode@remembercode](https://github.com/remembercode/IT/blob/main/img/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1_20230425133337.jpg)
